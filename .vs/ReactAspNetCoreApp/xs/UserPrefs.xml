@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E7BE64AF-3DD3-4AF2-B244-5979A2734E12}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReactAspNetCoreApp FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReactAspNetCoreApp/Program.cs">
+    <Files>
+      <File FileName="ReactAspNetCoreApp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReactAspNetCoreApp" expanded="True" selected="True">
+            <Node name="ReactAspNetCoreApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
